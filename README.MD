@@ -5,3 +5,5 @@
 O miguel fez uma alteração
 
 Alterei de novo 
+
+Alterei sem saber que o Miguel alterou
